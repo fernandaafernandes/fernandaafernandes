@@ -1,9 +1,8 @@
 #  👩‍💻 Olá, eu sou a **Fernanda!**
 
-✅ Estudante de **Análise e Desenvolvimento de Sistemas (4º período)**  
+✅ Estudante de **Análise e Desenvolvimento de Sistemas (5º período)**  
 📚 Atualmente focada em **Python e Análise de Dados**  
 🚀 Desenvolvedora do projeto **Arruma Aí** (civic-tech para melhorar serviços municipais)  
-❤️ Voluntária na ONG **Casa Amor e Vida**, apoiando projetos sociais  
 ✨ Apaixonada por tecnologia, inovação e impacto social  
 
 
