@@ -1,56 +1,31 @@
 # 👩‍💻 Olá, eu sou a Fernanda!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (5º período)**  
+🎓 Estudante de ADS (5º período)  
 📊 Focada em **Gestão de Projetos, Processos e Tecnologia**  
-🚀 Desenvolvedora do projeto **Arruma Aí** (civic-tech para gestão urbana)  
-✨ Experiência com liderança, organização de equipes e otimização de processos  
+🚀 Desenvolvedora do **Arruma Aí** (civic-tech para gestão urbana)  
 
 ## 🚀 Sobre mim
 
-Sou movida por organização, estratégia e resolução de problemas.  
-Tenho uma trajetória sólida em **gestão, análise de processos e liderança de equipe**, e estou em transição para a área de tecnologia com foco em **gestão de projetos**.
+Experiência em **gestão, análise de processos e liderança de equipe**, em transição para tecnologia com foco em **gestão de projetos**.  
+Atuo organizando fluxos, reduzindo retrabalho e melhorando resultados com apoio da tecnologia.
 
-Hoje, aplico tecnologia como ferramenta para:
-- melhorar processos  
-- reduzir retrabalho  
-- gerar eficiência e resultado  
+## 💼 Atuação
 
+- Planejamento e acompanhamento de projetos  
+- Organização de backlog e prioridades  
+- Automação de processos com Python  
+- Estruturação de banco de dados (SQL)  
+- Análise e melhoria de processos  
 
-## 📌 Atuação atual
+## 🌆 Projeto em destaque: Arruma Aí
 
-- 📅 Planejamento e acompanhamento de projetos  
-- 📊 Organização de tarefas e definição de prioridades  
-- ⚙️ Automação de processos com Python  
-- 🗄️ Estruturação de banco de dados (SQL)  
-- 📈 Análise e melhoria de fluxos operacionais  
+Plataforma que conecta cidadãos à prefeitura para gestão de demandas urbanas.
 
-## 💼 Projeto em destaque
-
-### 🌆 Arruma Aí
-
-Projeto **civic-tech** que conecta cidadãos à prefeitura para gestão de demandas urbanas.
-
-🧠 Minha atuação:
+**Atuação:**
 - Levantamento de requisitos  
-- Organização do backlog  
 - Planejamento de sprints  
+- Organização do backlog  
 - Definição de regras de negócio  
-- Apoio na arquitetura do sistema  
-
-## 📈 Atualmente estudando
-
-- Gestão de Projetos Ágeis  
-- Estruturação de produtos digitais  
-- Integração entre sistemas  
-- Automação para ganho de produtividade  
-
-
-
-## 🎯 Objetivo
-
-Atuar com **gestão de projetos na área de tecnologia**, contribuindo para organização de equipes, melhoria de processos e entrega de soluções eficientes.
-
-
 
 ## 🛠️ Tecnologias & Ferramentas  
 
