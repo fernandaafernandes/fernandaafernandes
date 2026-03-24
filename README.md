@@ -1,7 +1,7 @@
 #  👩‍💻 Olá, eu sou a **Fernanda!**
 
 ✅ Estudante de **Análise e Desenvolvimento de Sistemas (5º período)**  
-📚 Atualmente focada em **Python, Automação de Processos e Desenvolvimento Back-end*  
+📚 Atualmente focada em **Python, Automação de Processos e Desenvolvimento Back-end**
 🚀 Desenvolvedora do projeto **Arruma Aí** (civic-tech para melhorar serviços municipais)  
 ✨ Apaixonada por tecnologia, inovação e impacto social  
 
