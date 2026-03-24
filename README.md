@@ -1,10 +1,20 @@
 #  👩‍💻 Olá, eu sou a **Fernanda!**
 
-✅ Estudante de **Análise e Desenvolvimento de Sistemas (5º período)**  
-📚 Atualmente focada em **Python e Análise de Dados**  
-🚀 Desenvolvedora do projeto **Arruma Aí** (civic-tech para melhorar serviços municipais)  
-✨ Apaixonada por tecnologia, inovação e impacto social  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º período)
+💡 Em transição de carreira para a área de tecnologia
+🚀 Focada em Python, Automação de Processos e Desenvolvimento Back-end
 
+🚀 Sobre mim
+
+Sou apaixonada por tecnologia como ferramenta de transformação social.
+Venho de uma trajetória com forte atuação em gestão, análise e organização de processos, e hoje aplico essa experiência para desenvolver soluções tecnológicas eficientes e com propósito.
+
+Atualmente, estou focada em:
+
+🐍 Automação com Python
+🗄️ Banco de dados (SQL / PostgreSQL)
+⚙️ Desenvolvimento de APIs
+📊 Otimização de processos (menos trabalho manual, mais resultado)
 
 ---
 
